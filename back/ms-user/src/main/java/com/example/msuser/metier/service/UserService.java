@@ -1,4 +1,4 @@
-package main.java.com.example.msuser.service;
+package com.example.msuser.metier.service;
 
 @Service
 @Getter
