@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b94e097d-23f2-45a4-9c58-ef80aac32602" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/back/ms-product/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/ace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/adonisrc.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/app/controllers/products_controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/app/exceptions/handler.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/app/middleware/container_bindings_middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/app/middleware/force_json_response_middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/app/models/product.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/bin/console.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/bin/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/bin/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/config/app.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/config/bodyparser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/config/cors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/config/database.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/config/hash.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/config/logger.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/providers/product_provider.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/start/env.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/start/kernel.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/start/routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/tests/bootstrap.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back/ms-product/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2iucyxc0t4ouu3kheAMYwkN8n7G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/dev/Web/E-Commerce-MicroServices",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b94e097d-23f2-45a4-9c58-ef80aac32602" name="Changes" comment="" />
+      <created>1720344165277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720344165277</updated>
+    </task>
+    <servers />
+  </component>
+</project>
